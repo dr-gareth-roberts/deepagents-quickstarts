@@ -17,6 +17,16 @@ Here are the currently supported quickstarts:
 |----------------|----------|-------------|---------------|
 | [Deep Research](deep_research/README.md) | `deep_research/` | A research agent that conducts multi-step web research using Tavily for URL discovery, fetches full webpage content, and coordinates work through parallel sub-agents and strategic reflection | **Jupyter Notebook** or **LangGraph Server** |
 
+## Examples
+
+Here are some examples that showcase the functionalities of deep agents:
+
+| Example Name | Location | Description | Usage Options |
+|---|---|---|---|
+| [Code Generation](code_generation/code_generation.ipynb) | `code_generation/` | A code generation agent that can write and execute Python code. | **Jupyter Notebook** |
+| [SQL Agent](sql_agent/sql_agent.ipynb) | `sql_agent/` | A SQL agent that can answer questions about a database. | **Jupyter Notebook** |
+| [Customer Support](customer_support/customer_support.ipynb) | `customer_support/` | A customer support agent that can answer questions based on a knowledge base. | **Jupyter Notebook** |
+
 ## Built-In Deepagent Components
 
 To use these quickstarts, it's important to understand the built-in components of the deepagent harness. You can see the deepagents [repo](https://github.com/langchain-ai/deepagents) for more details, but as a quick reference, here are the built-in tools and middleware:
