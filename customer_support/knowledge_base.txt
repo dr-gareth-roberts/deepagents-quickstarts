@@ -1,0 +1,4 @@
+Our company sells two products: the "Stellar" and the "Nova".
+The Stellar is a high-end laptop with a 15-inch screen and a powerful processor.
+The Nova is a budget-friendly laptop with a 13-inch screen and a more modest processor.
+Both laptops come with a 1-year warranty.
